@@ -33,7 +33,7 @@ Pero si intentamos ingresar en /admin/
 
 ![cap](Captura4.PNG)
 
-Ahora si le damos privilegios e administrador a ese mismo usuario...
+Ahora, si le damos privilegios de administrador a ese mismo usuario...
 
 ![cap](Captura5.PNG)
 ![cap](Captura6.PNG)
